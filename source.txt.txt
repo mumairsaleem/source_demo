@@ -4,4 +4,8 @@ adding line 3.
 
 some work from developer branch .
 
+<<<<<<< HEAD
 merge content by another developer
+=======
+time to merge this to master
+>>>>>>> fddb7da8807f2df2ba9958ed93809189d0ba6287
